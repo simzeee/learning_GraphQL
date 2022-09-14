@@ -1,21 +1,8 @@
 {
-  "name": "learning_graphql",
-  "version": "1.0.0",
-  "description": "Doing some courses and building some projects to learn GraphQL",
-  "main": "demo.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/simzeee/learning_GraphQL.git"
-  },
-  "author": "John Sims",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/simzeee/learning_GraphQL/issues"
-  },
-  "homepage": "https://github.com/simzeee/learning_GraphQL#readme","dependencies": {
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
     "@apollo/react-hooks": "^3.1.2",
     "apollo-cache-inmemory": "^1.6.3",
     "apollo-client": "^2.6.4",
